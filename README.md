@@ -1,17 +1,16 @@
 # Project-1 AI website
-# 🚀 My AI Portfolio Website  
+🚀 AI-Powered Portfolio Website
+Welcome to my project! I have created this website as a portfolio to showcase my work and creative projects.
 
-Welcome to my portfolio! Maine ye website apna kaam aur projects showcase karne ke liye banai hai.  
+🔗 Website Link
+Click Here to Visit My Website
 
-### 🔗 Live Website Link  
-[Click Here to Visit My Website](https://69fe5d60afd562c8d5c2b548--gleaming-biscotti-d3a1d5.netlify.app/)  
+🛠 Tools Used
+Google AI Studio: Used for generating the main structure and content of the website.
 
-### 🛠 Tools & Tech  
-- **Google AI Studio:** Website structure aur AI implementation ke liye.  
-- **Adobe:** Design aur creative visuals ke liye.  
+Adobe Tools: Used to enhance the design and create high-quality visuals.
 
-### 📝 Project Overview  
-Ye ek modern portfolio website hai jahan main apne jokes aur doosray creative projects share karta hoon. Iska maqsad apna kaam ek professional tareeqay se duniya ko dikhana hai.  
+📝 Project Description
+This project is an AI-driven portfolio designed to bring my jokes, academic projects, and technical skills together in one place. My goal is to present a professional showcase for future clients, friends, and peers. I have focused on using ultra-realistic visuals and a clean, user-friendly interface to make the content stand out.
 
----
-*Created by: Muhammad Kashan Munawar*  
+Created by: Muhammad Kashan Munawar
